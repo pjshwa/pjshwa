@@ -19,7 +19,7 @@
 
 ### What I Do
 
-- Data Scientist, Software Engineer @crema (https://cre.ma)
+- Data Engineer @crema (https://cre.ma)
 
 
 ### Contact Me
