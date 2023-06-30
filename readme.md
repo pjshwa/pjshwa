@@ -20,6 +20,7 @@
 ### What I Do
 
 - Data Engineer @crema (https://cre.ma)
+- [Resume](https://pjshwa.me/resume.pdf)
 
 
 ### Contact Me
