@@ -26,4 +26,4 @@
 ### Contact Me
 
 - [Email](mailto:pjshwa@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/jinsik-park-6b2b5a119/)
+- [LinkedIn](https://www.linkedin.com/in/pjshwa/)
