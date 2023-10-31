@@ -19,7 +19,7 @@
 
 ### What I Do
 
-- [Resume](https://pjshwa.me/resume.pdf)
+- Software Engineer @clumio
 
 
 ### Contact Me
